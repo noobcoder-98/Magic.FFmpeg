@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="Magic.FFmpeg.Downloader/Magic.FFmpeg.Downloader.csproj" />
+  <Project Path="Magic.FFmpeg/Magic.FFmpeg.csproj" />
   <Project Path="Tester/Tester.csproj" />
 </Solution>
